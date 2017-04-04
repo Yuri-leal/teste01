@@ -1,0 +1,20 @@
+{
+  "name": "htt",
+  "homepage": "https://github.com/Yuri-leal/teste01",
+  "authors": [
+    "yuri <yurilealweb@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}

@@ -1,0 +1,20 @@
+.logo {
+	background: url(imagens/logo-tag-topo.png);
+}
+.texto {
+	font-family: OpenSans;
+}
+.gradients{
+	background: -webkit-linear-gradient(0deg, #9ab15e 0%, #31ble7 100%);
+	background: -moz-linear-gradient(0deg, #9ab15e 0%, #31ble7 100%);
+	background: -o-linear-gradient(0deg, #9ab15e 0%, #31ble7 100%);
+	background: -ms-linear-gradient(0deg, #9ab15e 0%, #31ble7 100%);
+	background: linear-gradient(0deg, #9ab15e 0%, #31ble7 100%);
+}
+.botao {
+	border-color: #000;
+	border-width: 2px;
+}
+.slide {
+	background: url(imagens/slide-pagina-inicial.jpg);
+}
